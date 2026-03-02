@@ -28,7 +28,9 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
+## 💻 Programming Languages
 
-## 🔥 Contribution Graph
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enes-aladag&theme=radical)
+
