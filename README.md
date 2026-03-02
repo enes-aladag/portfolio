@@ -31,5 +31,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 ## 🌐 Connect With Me
 
 📧 Email: aladag.ahmet.enes27@gmail.com 
-💼 LinkedIn:https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
+
+💼 LinkedIn: https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
 
