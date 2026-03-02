@@ -29,6 +29,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-aladag&theme=dark&hide_border=true&layout=compact&langs_count=5" />
-</p>
+## 🔥 Contribution Graph
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enes-aladag&theme=radical)
