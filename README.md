@@ -26,9 +26,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=enes-aladag&show_icons=true&theme=dark" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enes-aladag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-aladag&layout=compact&theme=radical"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-aladag&layout=compact&theme=dark" />
