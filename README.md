@@ -46,7 +46,7 @@ My goal is to build a strong technical foundation and develop real-world project
       </td>
     </tr>
   </table>
-</div>
+
 
 <br>
 <h2 align="center">⚡ Technologies & Tools</h2>
@@ -75,7 +75,7 @@ My goal is to build a strong technical foundation and develop real-world project
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" />
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:aladag.ahmet.enes27@gmail.com"><img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35" alt="Gmail"></a>
@@ -84,6 +84,7 @@ My goal is to build a strong technical foundation and develop real-world project
 </div>
 <br>
 
+</div>
 <div align="center">
   <i>("Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar.")</i><br>
   <b>Mustafa Kemal Atatürk</b>
