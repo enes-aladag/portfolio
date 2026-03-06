@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=50&fontAlignY=35&animation=twinkling" />
 </div>
-
 <div align="center">
   <h1> PORTFOLIO </h1>
 </div>
@@ -22,11 +21,32 @@ My B2 level English proficiency is the greatest strength fueling this vision. I 
 
 I focus on software development, algorithms, and project-based learning.  
 My goal is to build a strong technical foundation and develop real-world projects.
-
-Currently, I am actively improving myself in **Java** and **Python**.
-
 <br>
 
+<h2 align="center">⚡ What I'm Up To</h2>
+
+<div align="center">
+  <table width="800" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Projects & Ecosystem</h3>
+        <hr>
+        <ul>
+          <li>Developing an <b>AgriTech</b> project for the <b>Teknofest</b> competition.</li>
+          <li>Building a collaborative <b>Online Education Platform</b> as a team.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 Focus & Community</h3>
+        <hr>
+        <ul>
+          <li>Deep diving into <b>Algorithms</b>, <b>OOP</b>, and exploring <b>Cybersecurity</b>.</li>
+          <li>Active member of the <b>FÜBET</b> (IT and Education Society) club.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 <h2 align="center">⚡ Technologies & Tools</h2>
 
 <div align="center">
@@ -64,7 +84,4 @@ Currently, I am actively improving myself in **Java** and **Python**.
 <div align="center">
   <i>"First, solve the problem. Then, write the code." - John Johnson</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=enes-aladag&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
   
