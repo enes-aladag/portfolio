@@ -41,3 +41,18 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">]([https://instagram.com/username](https://www.instagram.com/eness.aladag?igsh=MWk2MWltZ2Z0dTZpcw==))
 &nbsp;
+
+## 💬 Contact Me
+
+<p align="center">
+  
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:fit-content; margin:auto;">
+
+🔗 LinkedIn: https://linkedin.com/in/username  
+📧 Email: email@gmail.com  
+📸 Instagram: https://instagram.com/username  
+🐙 GitHub: https://github.com/username  
+
+</div>
+
+</p>
