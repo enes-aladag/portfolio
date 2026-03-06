@@ -23,30 +23,32 @@ I focus on software development, algorithms, and project-based learning.
 My goal is to build a strong technical foundation and develop real-world projects.
 <br>
 
-<h2 align="center">⚡ What I'm Up To</h2>
+<h2 align="center">⚡ What I'm Focusing On</h2>
 
 <div align="center">
-  <table width="800" border="0" cellpadding="10" cellspacing="0">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🚀 Projects & Ecosystem</h3>
+        <h3 align="center">🧠 Core Engineering</h3>
         <hr>
         <ul>
-          <li>Developing an <b>AgriTech</b> project for the <b>Teknofest</b> competition.</li>
-          <li>Building a collaborative <b>Online Education Platform</b> as a team.</li>
+          <li>Decoding <b>Algorithmic Logic</b> and internalizing core <b>Data Structures</b>.</li>
+          <li>Mastering <b>Code Architecture</b> and advanced workflows using modern IDEs.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🧠 Focus & Community</h3>
+        <h3 align="center">☁️ Modern Ecosystem</h3>
         <hr>
         <ul>
-          <li>Deep diving into <b>Algorithms</b>, <b>OOP</b>, and exploring <b>Cybersecurity</b>.</li>
-          <li>Active member of the <b>FÜBET</b> (IT and Education Society) club.</li>
+          <li>Continuously keeping up-to-date with <b>Emerging Technologies</b>.</li>
+          <li>Exploring and understanding <b>Cloud Computing Systems</b> to build scalable applications.</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
+
+<br>
 <h2 align="center">⚡ Technologies & Tools</h2>
 
 <div align="center">
@@ -85,6 +87,4 @@ My goal is to build a strong technical foundation and develop real-world project
   <i>("Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar.")</i><br>
   <b>Mustafa Kemal Atatürk</b>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=enes-aladag&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-  
+
