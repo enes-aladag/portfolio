@@ -87,6 +87,8 @@ My goal is to build a strong technical foundation and develop real-world project
 </div>
 <div align="center">
   <i>("Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar.")</i><br>
-  <b>Mustafa Kemal Atatürk</b>
+  <b>Mustafa Kemal ATATÜRK</b>
   <br><br>
-
+<div align="center">
+  <i>"Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar." -Mustafa Kemal ATATÜRK</i>
+  <br><br>
