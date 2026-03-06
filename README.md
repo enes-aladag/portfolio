@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="<img width="2752" height="1536" alt="Gemini_Generated_Image_hsbrbvhsbrbvhsbr" src="https://github.com/user-attachments/assets/249bebc0-f223-44d5-a7e6-2a5fc25a0050" />" alt="ENES ALADAĞ" width="600" />
+  <img src="https://github.com/user-attachments/assets/249bebc0-f223-44d5-a7e6-2a5fc25a0050" alt="ENES ALADAĞ" width="600" />
 </p>
-
 ## 🚀 About Me
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
