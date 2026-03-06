@@ -82,6 +82,10 @@ My goal is to build a strong technical foundation and develop real-world project
 </div>
 
 <div align="center">
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+  <i>"On the foreheads of Turkish engineers shines the light that illuminates the future of the Republic."</i><br>
+  <sub><i>(Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar.)</i></sub><br>
+  <b>— Mustafa Kemal Atatürk</b>
   <br><br>
+  <img src="https://komarev.com/ghpvc/?username=enes-aladag&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
   
