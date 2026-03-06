@@ -9,9 +9,11 @@
 
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
+Yazılım Mühendisliği vizyonunu, sürekli öğrenme tutkusu ve günümüz teknolojilerine duyduğu merakla birleştiren bir geliştiriciyim.
 
-Hazırlık temelli bir akademik geçmişe sahibim ve İngilizce seviyem B2 düzeyindedir.  
-Bu sayede teknik dokümanları okuyabiliyor, global kaynakları takip edebiliyor ve uluslararası içerikleri anlayabiliyorum.
+Benim için yazılım geliştirme yalnızca kod yazmaktan ibaret değil; hızla değişen teknoloji ekosisteminde yenilikleri yakalamak ve karmaşık problemlere modern, ölçeklenebilir çözümler üretmektir. Bu nedenle kendimi belirli bir programlama dilinin sınırlarına hapsetmek yerine; algoritmik düşünce yapısını, veri yapılarını ve sağlam mühendislik prensiplerini merkeze alıyorum. Dilleri ve güncel araçları, modern sistemler inşa etmek için kullandığım birer köprü olarak görüyorum.
+
+B2 seviyesindeki İngilizce yetkinliğim, bu vizyonu besleyen en büyük gücüm. Global teknoloji trendlerini, uluslararası teknik dokümantasyonları ve sektördeki en iyi uygulamaları eşzamanlı olarak takip ediyor; teknik altyapımı dünya standartlarında sürekli güncelliyorum. Gerçek mühendisliğin var olanı tekrar etmek değil, sürekli gelişerek en optimal ve yenilikçi çözümü tasarlamak olduğuna inanıyorum.
 
 Yazılım geliştirme, algoritmalar ve proje tabanlı öğrenmeye odaklanıyorum.  
 Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik projeler geliştirmek.
@@ -30,6 +32,17 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:aladag.ahmet.enes27@gmail.com">
+    <img src="URL_TO_YOUR_EMAIL_LOGO" alt="Email" height="100" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/">
+    <img src="URL_TO_YOUR_LINKEDIN_LOGO" alt="LinkedIn" height="100" />
+  </a>
+</p>
 
 📧 Email: aladag.ahmet.enes27@gmail.com 
 
