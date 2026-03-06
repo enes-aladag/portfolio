@@ -1,12 +1,11 @@
-# portfolyö
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
-</p>
+  <h1> PORTFOLYO </h1>
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
   
-  <h1>👋 Merhaba, Ben Enes ALADAĞ</h1>
+  <h1> Enes ALADAĞ </h1>
 </div>
 
 <h2 align="center">🚀 Vizyonum & Hakkımda</h2>
