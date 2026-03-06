@@ -5,7 +5,7 @@
 
 # Enes ALADAĞ
 
-## 🚀 About Me
+<h2 align="center">🚀 Vizyonum & Hakkımda</h2>
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
 Yazılım Mühendisliği vizyonunu, sürekli öğrenme tutkusu ve günümüz teknolojilerine duyduğu merakla birleştiren bir geliştiriciyim.
