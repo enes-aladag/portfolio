@@ -32,7 +32,9 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
-## 🌐 Connect With Me
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF1493&width=300&lines=Connect+With+Me" />
+</h2>
 
 <p align="center">
 
@@ -43,22 +45,4 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">]([https://instagram.com/username](https://www.instagram.com/eness.aladag?igsh=MWk2MWltZ2Z0dTZpcw==))
 &nbsp;
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF1493&width=300&lines=Connect+With+Me" />
-</h2>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/enes-aladağ-66636631b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aladag.ahmet.enes27@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/eness.aladag">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
