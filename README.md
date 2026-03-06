@@ -37,16 +37,24 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 💼 LinkedIn: https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
 
-## 📬 Contact
+## 🚀 Let’s Build Something Amazing
 
 <p align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">](https://linkedin.com/in/username)
-&nbsp;
-[<img src="https://mailmeteor.com/logos/gmail/Gmail.svg" width="35">](mailto:email@gmail.com)
-&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">](https://instagram.com/username)
-&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35">](https://github.com/username)
+<a href="https://linkedin.com/in/username">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:email@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/username">
+<img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/username">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
