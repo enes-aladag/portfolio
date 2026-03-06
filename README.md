@@ -40,9 +40,9 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">]( https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/)
 &nbsp;
-[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">]( aladag.ahmet.enes27@gmail.com )
+[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">](mailto:aladag.ahmet.enes27@gmail.com )
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">]([https://instagram.com/username](https://www.instagram.com/eness.aladag?igsh=MWk2MWltZ2Z0dTZpcw==))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">]([https://instagram.com/username](https://www.instagram.com/eness.aladag/)
 &nbsp;
 
 
