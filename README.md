@@ -55,19 +55,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 </div>
 
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF1493&width=300&lines=Connect+With+Me" />
-</h2>
-
-<p align="center">
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">]( https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/)
-&nbsp;
-[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">](mailto:aladag.ahmet.enes27@gmail.com )
-&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">](https://www.instagram.com/eness.aladag/)
-&nbsp;
 
 
