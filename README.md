@@ -37,13 +37,16 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 💼 LinkedIn: https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
 
-## 💻 System Access
+## 📬 Contact
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-00FF00?style=flat-square&logo=linkedin&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gmail-00FF00?style=flat-square&logo=gmail&logoColor=black"/>
-<img src="https://img.shields.io/badge/Instagram-00FF00?style=flat-square&logo=instagram&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-00FF00?style=flat-square&logo=github&logoColor=black"/>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">](https://linkedin.com/in/username)
+&nbsp;
+[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">](mailto:email@gmail.com)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">](https://instagram.com/username)
+&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35">](https://github.com/username)
 
 </p>
