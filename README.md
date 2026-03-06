@@ -36,11 +36,11 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 <p align="center">
   <a href="mailto:aladag.ahmet.enes27@gmail.com">
-    <img src="URL_TO_YOUR_EMAIL_LOGO" alt="Email" height="100" />
+    <img src="URL_TO_YOUR_NEW_GMAIL_PRISM_LOGO" alt="Email" height="100" />
   </a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/">
-    <img src="URL_TO_YOUR_LINKEDIN_LOGO" alt="LinkedIn" height="100" />
+    <img src="URL_TO_YOUR_NEW_LINKEDIN_PRISM_LOGO" alt="LinkedIn" height="100" />
   </a>
 </p>
 
