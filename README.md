@@ -29,10 +29,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 </div>
 
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FFD700&width=300&lines=GitHub+Analytics" />
-</h2>
-
 <div align="center">
   <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FFD700&width=300&lines=GitHub+Analytics" alt="GitHub Analytics" />
