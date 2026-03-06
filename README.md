@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Enes+ALADAĞ" />
 </h1>
 
-## 🚀 About Me
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&width=300&lines=About+Me" />
+</h2>
 
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
