@@ -43,6 +43,7 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF1493&width=300&lines=Connect+With+Me" alt="Connect With Me" />
   </h2>
 
+<div align="center">
   <a href="https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:aladag.ahmet.enes27@gmail.com"><img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35" alt="Gmail"></a>
